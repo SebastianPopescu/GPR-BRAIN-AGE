@@ -1,5 +1,12 @@
 # GPR-BRAIN-AGE
 
+### Update:
+
+If you decide to train the GPR by yourself,after the training process finishes you can visualize in Tensorboard how the variables and metrics chance by doing the following in the terminal:
+
+tensorboard --logdir=./tensorboard/
+
+
 
 ***Requirements***
 
